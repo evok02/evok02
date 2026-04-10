@@ -1,6 +1,6 @@
 ## Hi, I'm Hlib
 
-- I write backend systems in Go and Python
+- I write firmware and backend systems
 - Studying computer scince in [FH IMC Krems](https://www.imc.ac.at/)
 - Currently learning Go and C
 
